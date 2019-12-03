@@ -20,7 +20,12 @@ Run the following command in the command prompt :
 
 This will open the tkinter window and the project will be up and running.
 
-## Training
-To train the model execute the following command
+## Adding a new student : CLI
+To add a new student and train the model for that student, execute
 
-`python train.py`
+`python new_user.py`
+
+This is the cli way to add new users.
+
+### Adding a new studnet : GUI
+The class teacher of the student can add the student. The project when in execution, has the interface to add new students.

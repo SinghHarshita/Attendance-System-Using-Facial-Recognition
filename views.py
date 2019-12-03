@@ -9,7 +9,7 @@ import MainPage
 db=mysql.connector.connect(
     host="localhost",
     user="root",
-    password="harshita@99",
+    password="",
     database="attendance_system"
 )
 

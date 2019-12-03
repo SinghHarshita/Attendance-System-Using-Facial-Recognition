@@ -5,6 +5,23 @@ This project uses tkinter module of python to provide the interface.
 
 ## Dependencies
 1. Python
+
   a. tkinter module
+
   b. mysql-connector
+
+  c. matplotlib
 2. Mysql database
+
+## Database
+1. views.py is the file with all database connectivity
+2. Make changes in this file to connect to your database
+
+`Note : The project will only run efficiently when it is connected to the database`
+
+## Starting the project
+Run the following command in the command prompt :
+
+`python mainpage.py`
+
+This will open the tkinter window and the project will be up and running.

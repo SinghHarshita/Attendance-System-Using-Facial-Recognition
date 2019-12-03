@@ -4,13 +4,7 @@ Facial recognition based attendance system which was developed as a part of Pyth
 This project uses tkinter module of python to provide the interface.
 
 ## Dependencies
-1. Python
-
-  a. tkinter module
-
-  b. mysql-connector
-
-  c. matplotlib
+1. Python : tkinter module, mysql-connector, matplotlib
 2. Mysql database
 
 ## Database
@@ -22,6 +16,11 @@ This project uses tkinter module of python to provide the interface.
 ## Starting the project
 Run the following command in the command prompt :
 
-`python mainpage.py`
+`python MainPage.py`
 
 This will open the tkinter window and the project will be up and running.
+
+## Training
+To train the model execute the following command
+
+`python train.py`
